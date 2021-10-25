@@ -1,5 +1,10 @@
 {
     "name": "anisochromatic",
+    "publisher": "isomorph-research",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/isomorph-research/anisochromatic-vscode.git"
+    },
     "displayName": "anisochromatic",
     "description": "A vibrant, pastel-based color theme designed to be easy on the eyes and easily parsable",
     "version": "0.0.1",
