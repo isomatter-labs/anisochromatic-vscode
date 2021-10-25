@@ -1,0 +1,21 @@
+{
+    "name": "anisochromatic",
+    "displayName": "anisochromatic",
+    "description": "A vibrant, pastel-based color theme designed to be easy on the eyes and easily parsable",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Anisochromatic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Anisochromatic-color-theme.json"
+            }
+        ]
+    }
+}
