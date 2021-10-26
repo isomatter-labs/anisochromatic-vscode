@@ -272,7 +272,7 @@
           "string punctuation.section.embedded source"
         ],
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -351,7 +351,7 @@
       {
         "scope": "string variable",
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -360,7 +360,7 @@
           "string.regexp"
         ],
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -371,7 +371,7 @@
           "string.regexp string.regexp.arbitrary-repitition"
         ],
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -534,7 +534,7 @@
           "string.other.link"
         ],
         "settings": {
-          "foreground": "#62b5f8",
+          "foreground": "#8FBCB1",
           "fontStyle": "underline"
         }
       }
