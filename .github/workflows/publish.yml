@@ -9,10 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: npm install
-        uses: actions/npm@master
-        with:
-          args: install --unsafe-perm
+      - uses: bahmutov/npm-install@v1
+      - run: npm install --unsafe-perm
       - name: Master
         uses: actions/bin/filter@master
         with:
