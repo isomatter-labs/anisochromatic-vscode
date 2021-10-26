@@ -53,8 +53,8 @@
       "list.hoverForeground": "#f2ece1",
       "list.inactiveSelectionForeground": "#f2ece1",
       "list.activeSelectionForeground": "#faf4e9",
-      "list.hoverBackground": "#ede7dd1a",
-      "list.inactiveSelectionBackground": "#23272e66",
+      "list.hoverBackground": "#ede7dd10",
+      "list.inactiveSelectionBackground": "#ede7dd1a",
       "list.activeSelectionBackground": "#ede7dd1a",
       "list.focusForeground": "#f2ece1",
       "list.focusBackground": "#a4dbf426",
@@ -104,7 +104,7 @@
       "editor.background": "#2c313a",
       "editorWidget.background": "#363c47",
       "editor.foldBackground": "#363c471a",
-      "editor.lineHighlightBackground": "#363c471a",
+      "editor.lineHighlightBackground": "#58627488",
       "editorLineNumber.foreground": "#586274",
       "editorLineNumber.activeForeground": "#f2ece1",
       "editorIndentGuide.background": "#363c47",
@@ -140,6 +140,7 @@
       "panelTitle.activeForeground": "#faf4e9",
       "panelTitle.inactiveForeground": "#ede7dd",
       "panelInput.border": "#23272e",
+      "terminal.background": "#23272e",
       "terminal.foreground": "#faf4e9",
       "terminal.ansiBlack": "#ede7dd",
       "terminal.ansiRed": "#e3837a",
@@ -271,7 +272,7 @@
           "string punctuation.section.embedded source"
         ],
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -350,7 +351,7 @@
       {
         "scope": "string variable",
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -359,7 +360,7 @@
           "string.regexp"
         ],
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -370,7 +371,7 @@
           "string.regexp string.regexp.arbitrary-repitition"
         ],
         "settings": {
-          "foreground": "#62b5f8"
+          "foreground": "#8FBCB1"
         }
       },
       {
@@ -533,7 +534,7 @@
           "string.other.link"
         ],
         "settings": {
-          "foreground": "#62b5f8",
+          "foreground": "#8FBCB1",
           "fontStyle": "underline"
         }
       }
