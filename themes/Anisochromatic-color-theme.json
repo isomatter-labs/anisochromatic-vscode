@@ -104,7 +104,7 @@
       "editor.background": "#2c313a",
       "editorWidget.background": "#363c47",
       "editor.foldBackground": "#363c471a",
-      "editor.lineHighlightBackground": "#58627488",
+      "editor.lineHighlightBackground": "#58627444",
       "editorLineNumber.foreground": "#586274",
       "editorLineNumber.activeForeground": "#f2ece1",
       "editorIndentGuide.background": "#363c47",
@@ -173,8 +173,8 @@
       "peekViewResult.background": "#2c313a",
       "settings.headerForeground": "#faf4e9",
       "settings.modifiedItemIndicator": "#eec76d66",
-      "welcomePage.buttonBackground": "#363c47",
-      "welcomePage.buttonHoverBackground": "#ede7dd"
+      "welcomePage.buttonBackground": "#98Cc79aa",
+      "welcomePage.buttonHoverBackground": "#98Cc79"
     },
     "semanticHighlighting": true,
     "tokenColors": [
