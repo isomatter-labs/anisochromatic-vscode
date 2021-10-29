@@ -7,7 +7,7 @@
     },
     "displayName": "anisochromatic",
     "description": "A vibrant, pastel-based color theme designed to be easy on the eyes and easily parsable",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "engines": {
         "vscode": "^1.61.0"
     },
