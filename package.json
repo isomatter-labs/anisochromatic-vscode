@@ -7,8 +7,8 @@
     },
     "displayName": "anisochromatic",
     "description": "A vibrant, pastel-based color theme designed to be easy on the eyes and easily parsable",
-    "icon": "./images/isomorph.png",
-    "version": "0.0.13",
+    "icon": "images/isomorph.png",
+    "version": "0.0.14",
     "engines": {
         "vscode": "^1.61.0"
     },
