@@ -36,7 +36,7 @@
       "titleBar.inactiveForeground": "#faf4e9",
       "titleBar.inactiveBackground": "#23272e",
       "titleBar.border": "#23272e",
-      "activityBar.foreground": "#f2ece1",
+      "activityBar.foreground": "#ede7ddaa",
       "activityBar.inactiveForeground": "#586274",
       "activityBar.background": "#2c313a",
       "activityBarBadge.foreground": "#faf4e9",
